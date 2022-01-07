@@ -1,0 +1,18 @@
+{
+  "name": "wasmscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "wasmscript": "./bin/cli"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wasmscripter/wasmscript.git"
+  },
+  "author": "Great Fan",
+  "license": "MIT"
+}

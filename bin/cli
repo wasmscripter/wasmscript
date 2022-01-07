@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+//第一行其中#!/usr/bin/env node表示用node解析器执行本文件。
+
+console.log("hello wasmscript!!!");
